@@ -1,0 +1,48 @@
+RED THEME
+
+Primary: #d32f2f
+
+P — Dark: #9a0007
+
+P — Light: #ff6659
+P - light text: #fff
+
+P text : #000
+
+
+Secondary: #37474f
+
+S — Light: #62727b
+
+S — Dark: #102027
+
+s text: #fff
+
+
+
+
+
+
+
+
+
+
+
+BLUE THEME
+
+Primary: #00acc1
+
+P — Dark: #007c91
+
+P — Light: #5ddef4
+
+P text : #000
+
+
+Secondary: #37474f
+
+S — Light: #62727b
+
+S — Dark: #102027
+
+s text: #fff
